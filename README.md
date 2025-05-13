@@ -1,12 +1,12 @@
-### Email Spam
+## Email Spam
 Ini adalah script Python yang berfungsi untuk melakukan spam ke email seseorang, ini hanya digunakan untuk pengujian yang etis, resiko dan tanggung jawab penyalah gunaan script, itu diluar tanggung jawab Author.
 
-## Fitur
+### Fitur
 - Spam dalam jumlah banyak dan fast
 - Fast spam anti delay
 - Hanya perlu input email, password, email target dan pesan nya
 
-## Instalasi Di Termux
+### Instalasi Di Termux
 1. Install paket yang dibutuhkan
    ```bash
    pkg update && pkg upgrade -y
@@ -24,7 +24,7 @@ Ini adalah script Python yang berfungsi untuk melakukan spam ke email seseorang,
    ```
    python main.py
    ```
-## Cara penggunaan 
+### Cara penggunaan 
 - masukan email untuk bahan spam
 - masukan password sesuai email akun
 - masukan email target
