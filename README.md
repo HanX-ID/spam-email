@@ -13,7 +13,7 @@ Ini adalah script Python yang berfungsi untuk melakukan spam ke email seseorang,
    pkg install python -y
    pkg install python-pip -y
    pkg instal git -y
-   pip install requests
+   pip install requests Crypto
    ```
 2. Clone Git
    ```bash
